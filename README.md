@@ -33,7 +33,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Vishwas37"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Vishwas37" /></a><a href="https://ko-fi.com/https://ko-fi.com/vishwas37"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/vishwas37" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwas37&show_icons=true&locale=en" alt="vishwas37" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas37&" alt="vishwas37" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishwas37&show_icons=true&locale=en" alt="vishwas37" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwas37&" alt="vishwas37" /></p>
 
